@@ -4,6 +4,6 @@ Financial econometrics research on SPDR Gold Trust (GLD), using ARIMA-GARCH mode
 
 The analysis includes stationarity tests, residual diagnostics, volatility modeling, and prediction intervals. Results highlight limited predictability in daily returns and persistent volatility; the five-day test window limits conclusions about forecast calibration.
 
-[Read the paper](Gold_Volatility_Research.pdf)
+[Read the paper](GLD return and volatility modeling)
 
 Group project by Sofia Kolaro, Utkarsh Maini, Elizabeth Murray, and Kiki Stoker. The paper was written in full by Sofia Kolaro.
